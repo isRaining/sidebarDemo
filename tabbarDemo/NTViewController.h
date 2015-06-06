@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface NTViewController : UITabBarController
+//wsq
+//-(void)isHiddenCustomTabBarByBoolean:(BOOL)boolean;
 
 @end

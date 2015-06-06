@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "NTViewController.h"
 @interface FirstViewController : UIViewController
+
+@property (nonatomic ,weak) NTViewController * delegate;
 
 @end
